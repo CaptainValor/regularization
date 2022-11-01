@@ -1,5 +1,5 @@
 # Regularization
-1500+ regularization images of various subjects for SD Dreambooth training
+1500 regularization images of various subjects for SD Dreambooth training
 
 ## Included (so far)
 
