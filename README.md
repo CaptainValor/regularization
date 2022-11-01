@@ -3,4 +3,4 @@
 
 ## Included (so far)
 
-* "photo of a cat" - 1536 images, DDIM, 40 steps, CFG 7.5, SD 1.5
+* "photo of a cat" - 1500 images, DDIM, 40 steps, CFG 7.5, SD 1.5
